@@ -1,6 +1,6 @@
 1
 00:00:03,299 --> 00:00:04,866
-<b>Freut mich, dass ihr wieder hier seid.</b>
+<b>So, freut mich, dass ihr wieder hier seid.</b>
 
 2
 00:00:04,866 --> 00:00:07,866
@@ -12,7 +12,7 @@
 
 4
 00:00:09,599 --> 00:00:12,099
-<b>Im Großen und Ganzen ist es immer dasselbe.</b>
+<b>Im Grossen und Ganzen ist es immer dasselbe.</b>
 
 5
 00:00:12,099 --> 00:00:15,833
@@ -32,7 +32,7 @@
 
 9
 00:00:23,866 --> 00:00:26,433
-<b>kann man sofort einen Bericht erstellen, </b>
+<b>kann man instantan einen Bericht erstellen, </b>
 
 10
 00:00:26,433 --> 00:00:28,800
@@ -64,11 +64,11 @@
 
 17
 00:00:46,899 --> 00:00:51,266
-<b>Beim ersten Mal empfehlen wir euch aber, sie sequenziell durchzugehen.</b>
+<b>Beim ersten Mal empfehlen wir euch aber, diese sequenziell durchzugehen.</b>
 
 18
 00:00:51,266 --> 00:00:55,833
-<b>Habt ihr euer Handy neben euch und etwas zum Schreiben. </b>
+<b>Am besten habt ihr euer Handy neben euch und etwas zum Schreiben. </b>
 
 19
 00:00:55,833 --> 00:00:58,766
@@ -84,7 +84,7 @@
 
 22
 00:01:07,066 --> 00:01:11,466
-<b>Kunden können auf verschiedene Wege auf den PrevCheck aufmerksam werden. </b>
+<b>Kunden können über verschiedene Wege auf den PrevCheck aufmerksam werden. </b>
 
 23
 00:01:11,466 --> 00:01:20,799
@@ -104,11 +104,11 @@
 
 27
 00:01:34,033 --> 00:01:38,200
-<b>Hier erfolgt die Bezahlung anschließend an die Dienstleistung in der Apotheke.</b>
+<b>Hier erfolgt die Bezahlung anschliessend an die Dienstleistung in der Apotheke.</b>
 
 28
 00:01:38,200 --> 00:01:43,700
-<b>Alternativ kann sich der Kunden ein Account auf unserer Webseite machen und vorab dort bezahlen. </b>
+<b>Alternativ kann sich der Kunden einen Account auf unserer Webseite machen und vorab dort bezahlen. </b>
 
 29
 00:01:43,700 --> 00:01:48,033
@@ -116,7 +116,7 @@
 
 30
 00:01:48,033 --> 00:01:55,000
-<b>Wir fangen mit dem Online-Weg und dem Account an und gehen dann später zum InStore-Weg über.</b>
+<b>Wir fangen mit dem Online-Weg und mit Account an und gehen dann später zum InStore-Weg über.</b>
 
 31
 00:01:57,333 --> 00:02:00,366
@@ -144,7 +144,7 @@
 
 37
 00:02:29,133 --> 00:02:31,300
-<b>Nicht jeder Kunde ist technisch versiert.</b>
+<b>Nicht jeder Kunde ist technisch affin.</b>
 
 38
 00:02:31,300 --> 00:02:37,300
@@ -152,11 +152,11 @@
 
 39
 00:02:37,300 --> 00:02:41,966
-<b>es ist oft ein großes Hindernis.</b>
+<b>Besonders bei Leuten, die das spontan machen wollen ist das oft ein grosses Hindernis.</b>
 
 40
 00:02:41,966 --> 00:02:44,900
-<b>Aus diesem Grund haben wir einen InStore-PrevCheck eingeführt. </b>
+<b>Aus diesem Grund haben wir den InStore-PrevCheck eingeführt. </b>
 
 41
 00:02:44,900 --> 00:02:51,766
@@ -176,7 +176,7 @@
 
 45
 00:03:04,300 --> 00:03:06,366
-<b>und wählt 'PrevCheck InStore-Fragebogen'.</b>
+<b>'PrevCheck InStore-Fragebogen'.</b>
 
 46
 00:03:06,366 --> 00:03:10,900
@@ -188,7 +188,7 @@
 
 48
 00:03:12,300 --> 00:03:19,433
-<b>Wenn ich das anklicke, kommt eine Warnung, die euch darauf hinweist, dass ihr diesen PrevCheck später bei euch an der Kasse kassieren müsst. </b>
+<b>Wenn ich das klicke, kommt eine Warnung, die euch darauf hinweist, dass ihr diesen PrevCheck später bei euch an der Kasse kassieren müsst. </b>
 
 49
 00:03:19,433 --> 00:03:21,099
@@ -216,11 +216,11 @@
 
 55
 00:03:53,266 --> 00:03:59,533
-<b>könnt ihr eben auch euer Apothekengerät zur Verfügung stellen. Hierfür klickt ihr auf 'Auf diesem Gerät', </b>
+<b>könnt ihr ihm auch euer Apothekengerät zur Verfügung stellen. Hierfür klickt ihr auf 'Auf diesem Gerät', </b>
 
 56
 00:03:59,533 --> 00:04:03,333
-<b>und es erscheint dieselbe Meldung noch einmal, die ich bestätige. </b>
+<b>und es erscheint dieselbe Meldung nochmal, die ich bestätige. </b>
 
 57
 00:04:03,333 --> 00:04:10,833
@@ -240,11 +240,11 @@
 
 61
 00:04:25,033 --> 00:04:33,899
-<b>Egal, auf welchen Weg der Kunde den Fragebogen ausfüllt, der sechsstellige Buchungscode erscheint immer zum Abschluss des Fragebogens. </b>
+<b>Egal, auf welchen Weg der Kunde den Fragebogen ausfüllt, der sechsstellige Buchungscode erscheint immer im Abschluss des Fragebogens. </b>
 
 62
 00:04:33,899 --> 00:04:43,166
-<b>Ihr seht alle abg eschlossenen InStore-Fragebögen unter Messungen, PrevCheck und könnt diese dort bequem für die Messungen auswählen.</b>
+<b>Ihr seht alle abgeschlossenen InStore-Fragebögen unter Messungen, PrevCheck und könnt diese dort bequem für die Messungen auswählen.</b>
 
 63
 00:04:43,166 --> 00:04:46,666
@@ -256,7 +256,7 @@
 
 65
 00:04:51,199 --> 00:04:59,966
-<b>Noch ein kleiner Tipp. Um den PrevCheck möglichst effizient durchzuführen, empfehlen wir euch, die HbA1c- oder Cholesterin-Messung zu starten </b>
+<b>Noch ein kleiner Tipp: Um den PrevCheck möglichst effizient durchzuführen, empfehlen wir euch, die HbA1c- oder Cholesterin-Messung zu starten </b>
 
 66
 00:04:59,966 --> 00:05:03,633
@@ -264,23 +264,23 @@
 
 67
 00:05:03,633 --> 00:05:10,433
-<b>Wenn ihr euch jetzt fragt ? </b>
+<b>Wenn ihr euch nun fragt wie das mit der Abrechnung läuft? Das ist im Prinzip ganz einfach.</b>
 
 68
 00:05:10,433 --> 00:05:16,466
-<b>Am Ende des Monats vergleichen wir die Anzahl der PrevChecks, die über den InStore-Weg gemacht wurden, </b>
+<b>Am Ende jedes Monats rechnen wir die Anzahl der PrevChecks, die auf dem InStore-Weg gemacht wurden, </b>
 
 69
 00:05:16,466 --> 00:05:19,866
-<b>mit denen, die über unsere Website gekommen sind. </b>
+<b>mit denen gegenüber, die über unsere Website gekommen sind. </b>
 
 70
 00:05:19,866 --> 00:05:24,566
-<b>Als Apotheker erhaltet ihr pro PrevCheck immer denselben Betrag. </b>
+<b>Als Apotheke erhaltet ihr pro PrevCheck immer denselben Betrag. </b>
 
 71
 00:05:24,566 --> 00:05:32,000
-<b>Es entsteht für euch also kein Vor- oder Nachteil, wenn ihr die Kunden bevorzugt auf den einen oder anderen Weg bedient.</b>
+<b>Es entsteht für euch also kein Vor- oder Nachteil, wenn ihr die Kunden bevorzugt auf dem einen oder anderen Weg bedient.</b>
 
 72
 00:05:34,766 --> 00:05:37,000
@@ -288,7 +288,7 @@
 
 73
 00:05:37,000 --> 00:05:43,333
-<b>Ihr könnt gleich mitmachen und euren eigenen Fragebogen ausfüllen. Indem ihr diesen QR-Code scannt.</b>
+<b>Ihr könnt gleich mitmachen und euren eigenen Fragebogen ausfüllen indem ihr diesen QR-Code scannt.</b>
 
 74
 00:05:44,766 --> 00:05:50,166
@@ -308,7 +308,7 @@
 
 78
 00:06:02,766 --> 00:06:06,966
-<b>aber später gibt es dafür Warnungen, die ihr dann im Bericht seht.</b>
+<b>aber später gibt es dafür Warnungen, die ihr dann im Bericht sehen werdet.</b>
 
 79
 00:06:06,966 --> 00:06:15,199
@@ -320,7 +320,7 @@
 
 81
 00:06:22,666 --> 00:06:28,866
-<b>Und bejaht man diese, gibt es eine weitere Frage, ob man gegebenenfalls schon einmal Schwangerschaftsdiabetes hatte.</b>
+<b>Und sofern man diese bejaht, gibt es eine weitere Frage, ob man gegebenenfalls auch Schwangerschaftsdiabetes hat .</b>
 
 82
 00:06:29,766 --> 00:06:33,399
@@ -340,7 +340,7 @@
 
 86
 00:06:53,233 --> 00:06:59,199
-<b>Fühlen Sie sich häufig gestresst? Mein Gemütszustand in den letzten drei Monaten war ...</b>
+<b>Fühlen Sie sich häufig gestresst? Mein Gemütszustand in den letzten drei Monaten war.</b>
 
 87
 00:06:59,933 --> 00:07:02,566
@@ -352,7 +352,7 @@
 
 89
 00:07:07,233 --> 00:07:13,233
-<b>Ich vermeide starke Sonneneinstrahlung und schütze meine Haut durch Sonnencremes oder den Aufenthalt in Schatten.</b>
+<b>Ich vermeide starke Sonneneinstrahlung und schütze meine Haut durch Sonnencremes oder den Aufenthalt im  Schatten.</b>
 
 90
 00:07:13,233 --> 00:07:17,533
@@ -376,7 +376,7 @@
 
 95
 00:07:34,133 --> 00:07:41,533
-<b>Genauso verhält es sich bei nicht mehr, nur dass zusätzlich noch gefragt wird, wie vielen Jahren man nicht mehr raucht.</b>
+<b>Genauso verhält es sich bei nicht mehr, nur dass zusätzlich noch gefragt wird, seit wie vielen Jahren man nicht mehr raucht.</b>
 
 96
 00:07:43,199 --> 00:07:49,000
@@ -396,11 +396,11 @@
 
 100
 00:08:00,699 --> 00:08:08,466
-<b>Das ist für Leute oft eine Möglichkeit, ein Indiz zu geben, die mit jemandem über ihr Drogenproblem sprechen wollen.</b>
+<b>Das ist für Leute oft eine Möglichkeit, ein Indiz zu geben, dass sie mit jemandem über ihr Drogenproblem sprechen wollen.</b>
 
 101
 00:08:09,533 --> 00:08:14,933
-<b>Was Leute hier anklicken, speziell welche Art von Drogeneinnahme seht ihr in der Apotheke nicht,</b>
+<b>Was Leute hier anklicken, speziell welche Art von Droge sie nehmen seht ihr in der Apotheke nicht,</b>
 
 102
 00:08:14,933 --> 00:08:21,000
@@ -424,7 +424,7 @@
 
 107
 00:08:39,933 --> 00:08:41,299
-<b>diese folgende Krankheiten?</b>
+<b>die folgende Krankheiten.</b>
 
 108
 00:08:43,133 --> 00:08:46,466
@@ -452,7 +452,7 @@
 
 114
 00:09:17,033 --> 00:09:23,200
-<b>wie oft essen Sie Fisch- oder Meeresfrüchte, wie oft essen Sie fettarmen Milchprodukte,</b>
+<b>wie oft essen Sie Fisch- oder Meeresfrüchte, wie oft essen Sie fettarme Milchprodukte,</b>
 
 115
 00:09:24,266 --> 00:09:28,233
@@ -460,7 +460,7 @@
 
 116
 00:09:28,233 --> 00:09:32,866
-<b>und zuletzt, wie oft essen Sie Süßigkeiten und süße Speisen.</b>
+<b>und zuletzt, wie oft essen Sie Süssigkeiten und süsse Speisen.</b>
 
 117
 00:09:35,733 --> 00:09:41,100
@@ -484,7 +484,7 @@
 
 122
 00:10:07,000 --> 00:10:15,299
-<b>Sobald doch der Fragebogen beantwortet wurde, bekommen InStore-Kunden direkt den Buchungscode, mit dem man die Messungen durchführen kann,</b>
+<b>Sobald auch der Fragebogen beantwortet wurde, bekommen InStore-Kunden direkt den Buchungscode, mit dem man man die Messungen durchführen kann,</b>
 
 123
 00:10:16,299 --> 00:10:21,966
@@ -504,7 +504,7 @@
 
 127
 00:10:33,433 --> 00:10:38,666
-<b>Martin übernimmt den nächsten Teil und zeigt euch, wie es aus der Sicht der Apotheker funktioniert.</b>
+<b>Martin übernimmt den nächsten Teil und zeigt euch, wie es aus der Sicht der Apotheke funktioniert.</b>
 
 128
 00:10:43,366 --> 00:10:48,533
@@ -572,7 +572,7 @@
 
 144
 00:12:06,166 --> 00:12:10,233
-<b>wenn die Messwerte außerhalb des Messbereichs sind oder das Gerät 'NA' anzeigt, </b>
+<b>wenn die Messwerte ausserhalb des Messbereichs sind oder das Gerät 'NA' anzeigt, </b>
 
 145
 00:12:10,233 --> 00:12:14,666
@@ -648,7 +648,7 @@
 
 163
 00:14:10,566 --> 00:14:12,966
-<b>Das Alter ist auch ein großer Risikofaktor.</b>
+<b>Das Alter ist auch ein grosser Risikofaktor.</b>
 
 164
 00:14:12,966 --> 00:14:20,100
@@ -696,7 +696,7 @@
 
 175
 00:15:23,366 --> 00:15:34,766
-<b> wie man seine Ernährung im Sinne einer Vorsorgemaßnahme gestalten kann. Das basiert auf eviPrev, einer Gesellschaft von Ärzten, die untersucht hat, welche Vorsorgemaßnahmen für die Schweizer Bevölkerung sinnvoll sind. </b>
+<b> wie man seine Ernährung im Sinne einer Vorsorgemassnahme gestalten kann. Das basiert auf eviPrev, einer Gesellschaft von Ärzten, die untersucht hat, welche Vorsorgemassnahmen für die Schweizer Bevölkerung sinnvoll sind. </b>
 
 176
 00:15:34,766 --> 00:15:44,200
@@ -749,7 +749,7 @@
 188
 00:17:03,766 --> 00:17:08,733
 <b>Gut, das war es auch schon zum PrevCheck. 
-Aber unser Plattform hat noch viel mehr zu bieten.</b>
+Aber unsere Plattform hat noch viel mehr zu bieten.</b>
 
 189
 00:17:08,733 --> 00:17:13,900
@@ -757,15 +757,15 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 190
 00:17:13,900 --> 00:17:19,733
-<b>Diese können auch dafür genutzt werden, um für Einzelmessungen in der Apotheke einen Bericht zu erstellen.</b>
+<b>Diese können dafür genutzt werden, um für eine Einzelmessung in der Apotheke einen Report zu erstellen.</b>
 
 191
 00:17:19,733 --> 00:17:30,733
-<b>Ich zeige euch das jetzt am Beispiel der HbA1c-Messung. Man geht wieder unter 'Messungen', wählt die HbA1c-Messung aus, gibt den Wert für HbA1c ein,</b>
+<b>Ich zeige euch das jetzt anhand von der HbA1c-Messung. Man geht wieder unter 'Messungen', kann da HbA1c-Messung auswählen, gibt den Wert für HbA1c ein,</b>
 
 192
 00:17:30,733 --> 00:17:37,866
-<b>bestätigt, dass die Angaben korrekt und in der richtigen Einheit sind, und kann danach den Bericht öffnen.</b>
+<b>bestätigt, dass die Angaben korrekt und in den richtigen Einheit sind, und kann sofort den Bericht öffnen.</b>
 
 193
 00:17:37,866 --> 00:17:41,366
@@ -773,19 +773,19 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 194
 00:17:41,733 --> 00:17:44,866
-<b>erste teil </b>
+<b>Im ersten Teil wird beschrieben, was ist ein HbA1c-Wert,</b>
 
 195
 00:17:44,866 --> 00:17:48,366
-<b>Zweietr Teil </b>
+<b>im zweiten Teil, was war ihr HbA1c-Wert</b>
 
 196
 00:17:48,366 --> 00:17:54,533
-<b>Der dritte Teil bespricht Maßnahmen, was jetzt zu tun ist, gefolgt von generellen Empfehlungen </b>
+<b>Der dritte Teil bespricht Massnahmen, was jetzt zu tun ist, gefolgt von generellen Empfehlungen </b>
 
 197
 00:17:54,533 --> 00:18:01,099
-<b>Wie ihr schon beim PrevCheck gesehen habt, kann man den Bericht ausdrucken, unterschreiben und dem Kunden physisch mitgeben.</b>
+<b>Wie auch schon beim PrevCheck, kann man den Bericht wenn man ihn ausdruckt unterschreiben und dem Kunden physisch mitgeben.</b>
 
 198
 00:18:01,466 --> 00:18:09,733
@@ -797,15 +797,15 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 200
 00:18:17,000 --> 00:18:20,700
-<b>So wird der Bericht für die HbA1c-Messung erstellt.</b>
+<b>Jetzt haben wir einen Bericht für eine HbA1c-Messung erstellt.</b>
 
 201
 00:18:20,700 --> 00:18:26,799
-<b>Cholesterin-Messung und Blutdruck-Messung funktionieren genau gleich. Einfach, oder?</b>
+<b>Cholesterin-Messung und Blutdruck-Messung funktionieren genau gleich. Einfacher als gedacht, oder?</b>
 
 202
 00:18:26,799 --> 00:18:30,866
-<b>zu guter Letzt noch ein paar Dinge, die gut zu wissen sind. </b>
+<b>So, zu guter Letzt noch ein paar Dinge, die gut zu wissen sind. </b>
 
 203
 00:18:30,866 --> 00:18:35,566
@@ -813,7 +813,7 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 204
 00:18:35,566 --> 00:18:46,000
-<b>Diese Informationen stehen sowohl euch als auch dem Kunden zur Verfügung. Das heißt, bei Fragen seitens des Kunden, was er bei erhöhten Cholesterinwerten bezüglich Ernährung beachten soll, </b>
+<b>Diese Informationen stehen sowohl euch sowie auch dem Kunden zur Verfügung. Das heisst, bei Fragen seitens des Kunden, was er bei erhöhten Cholesterinwerten bezüglich Ernährung beachten soll, </b>
 
 205
 00:18:46,000 --> 00:18:51,166
@@ -837,19 +837,19 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 210
 00:19:23,133 --> 00:19:32,966
-<b>eure Terminbuchungsoptionen verwalten, die Bankverbindung ändern oder verwalten und den Kollaborationsvertrag einsehen.</b>
+<b>eure Terminbuchungsoptionen verwalten, die Bankverbindung ändern oder verwalten und den Kollaborationsvertrag, sollte es einen neuen geben, unterschreiben.</b>
 
 211
 00:19:32,966 --> 00:19:43,900
-<b>Daneben gibt es 'Marketing und Materialien', wo ihr unter digitalen Ressourcen beispielsweise unsere Logos oder Textbausteine für eure Webseite herunterladen könnt,</b>
+<b>Daneben gibt es 'Marketing und Materialien', wo ihr unter digitale Ressourcen beispielsweise unsere Logos oder Textbausteine für eure Webseite herunterladen könnt,</b>
 
 212
 00:19:43,900 --> 00:19:47,133
-<b>und auch Trainingsmaterialien beziehen könnt.</b>
+<b>oder auch Trainingsmaterialien beziehen könnt.</b>
 
 213
 00:19:47,133 --> 00:19:57,566
-<b>Unter Marketing und Materialien kann man auch noch physisches Marketingmaterial unkompliziert bestellen, beispielsweise unsere Flyer oder A4- und A1-Poster.</b>
+<b>Unter Marketing und Materialien kann man auch noch physisches Marketingmaterial unkompliziert bestellen, beispielsweise unsere Faltflyer oder A4- und A1-Poster.</b>
 
 214
 00:19:57,566 --> 00:20:05,033
@@ -857,11 +857,11 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 215
 00:20:05,033 --> 00:20:10,500
-<b>Sollten noch irgendwelche Fragen aufkommen, findet ihr dort auch unsere Kontaktinformationen.</b>
+<b>Sollten noch irgendwelche Fragen aufkommen, findet ihr unsere Kontaktinformationen unter Kontakt.</b>
 
 216
 00:20:10,500 --> 00:20:15,166
-<b>Die Plattform PrevCheck ist prinzipiell in vier Sprachen erhältlich.</b>
+<b>Die Plattform PrevCheck ist prinzipiell in vier Sprachen erhältlich  </b>
 
 217
 00:20:15,166 --> 00:20:19,066
@@ -881,9 +881,5 @@ Aber unser Plattform hat noch viel mehr zu bieten.</b>
 
 221
 00:20:35,533 --> 00:20:38,200
-<b>Vielen Dank fürs Zuhören und viel Spaß mit dem PrevCheck.</b>
-
-222
-00:24:46,433 --> 00:24:55,500
-<b>kann man den Bericht auch über den QR-Code links neben diesen Eingabefenstern mit dem Kunden teilen.</b>
+<b>Vielen Dank fürs Zuhören und viel Spass mit dem PrevCheck.</b>
 
