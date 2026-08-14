@@ -520,15 +520,15 @@
 
 131
 00:11:00,833 --> 00:11:04,866
-<b>Und kann dort den Buchungscode ein- oder auswählen.</b>
+<b>Und kann dort den Buchungscode eingeben oder auswählen.</b>
 
 132
 00:11:04,866 --> 00:11:09,633
-<b>Zuerst kommt eine Sicherheitsfrage. Fühlt sich der Kunde gesund genug, um einen Test zu machen? </b>
+<b>Zuerst kommt eine Sicherheitsfrage. Fühlt sich der Kunde gesund genug, um den Test zu machen? </b>
 
 133
 00:11:09,633 --> 00:11:18,500
-<b>Oder hat akute Beschwerden? Man sieht auch, ob der PrevCheck schon vorab online bezahlt wurde. Okay.</b>
+<b>Oder hat er oder sie akute Beschwerden? Man sieht auch, ob der PrevCheck schon vorab online bezahlt wurde.</b>
 
 134
 00:11:18,500 --> 00:11:25,366
@@ -536,7 +536,7 @@
 
 135
 00:11:26,399 --> 00:11:30,966
-<b>Ihr messt das Lipid-Panel: Cholesterin und Triglyceride in Millimol pro Liter, </b>
+<b>Ihr messt das Lipid-Panel für Cholesterin und Triglyceride in Millimol pro Liter, </b>
 
 136
 00:11:30,966 --> 00:11:35,500
@@ -544,35 +544,35 @@
 
 137
 00:11:37,500 --> 00:11:39,866
-<b>Der Blutdruck kann natürlich auch mehrmals messen.</b>
+<b>Der Blutdruck kann man natürlich auch mehrmals messen.</b>
 
 138
 00:11:39,866 --> 00:11:46,466
-<b> Wir empfehlen, dass der Kunde grundsätzlich nüchtern ist. Wenn die Triglyceridwerte erhöht sind und der Kunde nicht nüchtern ist,</b>
+<b>Wir empfehlen, dass der Kunde grundsätzlich nüchtern ist. Wenn die Triglyceridwerte erhöht sind und der Kunde nicht nüchtern ist,</b> 
 
 139
 00:11:46,466 --> 00:11:50,266
-<b>dann kann eine Nachmessung sinnvoll sein. Auf das gehen wir später hin.</b>
+<b>dann kann eine Nachmessung sinnvoll sein. Auf das gehen wir später ein.</b>
 
 140
 00:11:52,066 --> 00:11:55,266
-<b>Zusätzlich müsst ihr Folgendes beachten:</b>
+<b>Wenn ihr nur ein Gerät habt, müsst ihr die Herstellerangaben beachten,</b>
 
 141
 00:11:55,266 --> 00:11:57,666
-<b>Die Kassetten könnt ihr nicht gleichzeitig befüllen.</b>
+<b>ob ihr die Kassetten gleichzeitig befüllen dürft.</b>
 
 142
 00:11:57,666 --> 00:12:03,166
-<b> Im Normalfall solltet ihr warten, bis das Gerät wieder frei ist, bevor ihr die zweite Kassette befüllt.</b>
+<b>Im Normalfall solltet ihr warten, bis das Gerät wieder frei ist, bevor ihr die zweite Kassette befüllt.</b>
 
 143
 00:12:03,166 --> 00:12:06,166
-<b>Die Kassetten dürfen nicht lange offen herumstehen.</b>
+<b>Die Kassetten dürfen ja nicht lange befüllt herumstehen.</b>
 
 144
 00:12:06,166 --> 00:12:10,233
-<b>wenn die Messwerte ausserhalb des Messbereichs sind oder das Gerät 'NA' anzeigt, </b>
+<b>Wenn die Messwerte ausserhalb des Messbereichs sind oder wenn 'n/a' anzeigt wird,</b>
 
 145
 00:12:10,233 --> 00:12:14,666
@@ -580,27 +580,27 @@
 
 146
 00:12:15,500 --> 00:12:19,799
-<b>...</b>
+<b>Zum Beispiel, wenn die Triglyceride-Werte über 4.52 mmol/l sind,</b>
 
 147
 00:12:19,799 --> 00:12:22,866
-<b>Dann kann das Gerät </b>
+<b>dann kann das Gerät die LDL-Werte nicht mehr berechnen.</b>
 
 148
 00:12:23,366 --> 00:12:28,933
-<b>Sobald ihr das eintragt, erscheint ein Zusatzfeld.</b>
+<b>Wenn ihr das so eintragt, erscheint ein Zusatzfeld für das Gesamtcholesterin.</b>
 
 149
 00:12:28,933 --> 00:12:31,766
-<b>Das kann man ausfüllen und der Rest basiert automatisch.</b>
+<b>Das kann man ausfüllen und der Rest passiert automatisch.</b>
 
 150
 00:12:31,766 --> 00:12:35,866
-<b>alles eingetragen ist, müsst ihr alles durchschauen und bestätigen.</b>
+<b>Wenn alles eingetragen ist, am besten alles nochmals durchschauen und bestätigen.</b>
 
 151
 00:12:37,333 --> 00:12:41,733
-<b>Der Bericht ist dann verfügbar und wird in dem Moment automatisch verschickt.</b>
+<b>Der Bericht ist sofort verfügbar und wird in dem Moment auch per E-Mail verschickt.</b>
 
 152
 00:12:41,733 --> 00:12:45,533
@@ -608,7 +608,7 @@
 
 153
 00:12:45,533 --> 00:12:52,366
-<b>entweder per E-Mail oder ausgedruckt. Schauen wir uns jetzt gemeinsam den Bericht an, weil das die Grundlage für die Konsultation ist.</b>
+<b>entweder per E-Mail oder ausgedruckt. Wir Schauen jetzt gemeinsam den Bericht an, weil das die Grundlage für die Konsultation ist.</b>
 
 154
 00:12:52,366 --> 00:12:59,266
@@ -616,7 +616,7 @@
 
 155
 00:12:59,266 --> 00:13:07,200
-<b>Erster Teil: Man sieht eine Übersicht zu Ernährung, Bewegung/Sport, familiärer Vorbelastung und Suchtmitteln. </b>
+<b>Im ersten Teil sieht man eine Übersicht zu Ernährung, Bewegung/Sport, familiärer Vorbelastung und Suchtmitteln. </b>
 
 156
 00:13:07,200 --> 00:13:14,133
@@ -636,27 +636,27 @@
 
 160
 00:13:28,600 --> 00:13:33,700
-<b>Mir gefällt es, zuerst den Überblick und die Messungen kurz zu beschreiben </b>
+<b>Wir empfehlen es, zuerst den Überblick und die Messungen kurz zu beschreiben </b>
 
 161
 00:13:33,700 --> 00:13:38,899
-<b>und dann anhand des Risikoscores oder eines einzelnen Werts ins Detail zu gehen.</b>
+<b>und dann anhand des Risikoscores oder einzelnen Werten ins Detail zu gehen.</b>
 
 162
 00:13:42,166 --> 00:14:10,566
-<b>Das ist der aktuelle Risikoscore für Europa: SCORE2. Wir haben zwei Scores. Der erste Score ist für das kardiovaskuläre Ereignis, also Schlaganfall oder Herzinfarkt, inklusive Zielvorgabe. Man sieht sofort, wenn ein Wert im orangen oder roten Bereich liegt.</b>
+<b>Jetzt geht es um eine Risikobeurteilung. Wir haben zwei Scores. Der erste Score für das kardivaskuläre Risiko. Der basiert auf dem SCORE2. Das ist der aktuelle Risikoscore für Europa. Ihr seht hier das 10-Jahres Risiko für ein kardovaskuläres Ereignis wie ein Schlaganfall, eine Zielvorgabe und ein Herzalter. Wir zeigen auch das altersbedingte Grundrisiko an. Eine Person, die 75 Jahre alt ist, Marathons rennt und alles richtig macht, kann trozdem im organgen oder roten Bereich sein.</b>
 
 163
 00:14:10,566 --> 00:14:12,966
-<b>Das Alter ist auch ein grosser Risikofaktor.</b>
+<b>Das Alter ist einfach ein grosser Risikofaktor.</b>
 
 164
 00:14:12,966 --> 00:14:20,100
-<b>Der zweite Score ist ein Diabetes-Score, den wir auf Basis von FINDRISC erstellen. Der besteht aus Risikopunkten und der Zielvorgabe. </b>
+<b>Der zweite Score ist ein Diabetes-Score, basierend auf FINDRISC. Der besteht aus Risikopunkten und der Zielvorgabe. </b>
 
 165
 00:14:20,100 --> 00:14:25,200
-<b>Je mehr Punkte, desto schlechter ist es. Auch die Zielvorgabe ist auf die Person abgestimmt.</b>
+<b>Je mehr Punkte, desto schlechter ist es. Auch die Zielvorgabe ist auf die Person angepasst.</b>
 
 166
 00:14:25,200 --> 00:14:31,200
@@ -668,7 +668,7 @@
 
 168
 00:14:38,366 --> 00:14:43,833
-<b> weil das Risiko bereits eingetreten ist. Die Person ist dann im diabetes- oder prediabetes-Bereich. </b>
+<b>weil das Risiko bereits eingetreten ist. Die Person ist dann im diabetes- oder prediabetes-Bereich. </b>
 
 169
 00:14:43,833 --> 00:14:47,133
@@ -680,7 +680,7 @@
 
 171
 00:14:57,533 --> 00:15:03,666
-<b>dann steht dort, dass SCORE2 für so hochriskante Patienten nicht validiert ist. Das ist ein Sonderfall, der nicht klinisch validiert ist.</b>
+<b>dann steht im Bericht, dass der SCORE2 für so hochriskante Patienten nicht klinisch validiert ist.</b>
 
 172
 00:15:03,666 --> 00:15:08,333
@@ -688,43 +688,43 @@
 
 173
 00:15:08,333 --> 00:15:19,166
-<b>Es geht um Ernährung, Sonne, Rauchen, Sport und Alkohol. Wer weiterführende Informationen sucht, findet im Infocenter noch mehr.</b>
+<b>Es geht um Ernährung, Sonne, Rauchen, Sport und Alkohol. Wir haben das natürlich auf den Kunden angepasst. Wer weiterführende Informationen sucht, findet im Infocenter noch mehr.</b>
 
 174
 00:15:19,166 --> 00:15:23,366
-<b>Zum Beispiel kann man sehen,</b>
+<b>Zum Beispiel wie man die Ernährung gestallten kann bei erhöhten Cholesterin-Werte.</b>
 
 175
 00:15:23,366 --> 00:15:34,766
-<b> wie man seine Ernährung im Sinne einer Vorsorgemassnahme gestalten kann. Das basiert auf eviPrev, einer Gesellschaft von Ärzten, die untersucht hat, welche Vorsorgemassnahmen für die Schweizer Bevölkerung sinnvoll sind. </b>
+<b> Im letzten Teil geht es um empfohlene Vorsorgemassnahmen. Das basiert auf EviPrev, das ist eine Gesellschaft von Ärzten, die untersucht hat, welche Vorsorgemassnahmen für die Schweizer Bevölkerung sinnvoll sind. </b>
 
 176
 00:15:34,766 --> 00:15:44,200
-<b>Je nach Risikoprofil kann das mehr oder weniger sein. Wenn jemand geraucht hat, übergewichtig ist und eine familiäre Vorbelastung hat, wirkt sich das entsprechend auf die Empfehlung aus.</b>
+<b>Je nach Risikoprofil kann das mehr oder weniger sein. Wenn jemand geraucht hat, übergewichtig ist und eine familiäre Vorbelastung hat, kann die Liste entsprechend lange sein.</b>
 
 177
 00:15:44,200 --> 00:15:49,833
-<b>Am Ende des Berichts stehen noch allgemeine Informationen, das Apotheker-Logo und Adressen. </b>
+<b>Am Ende des Berichts stehen noch allgemeine Informationen, das Apotheker-Logo und die Adresse. </b>
 
 178
 00:15:49,833 --> 00:15:54,766
-<b>Wenn man ihn ausdruckt, kann man ihn auch unterschreiben, sodass man sieht, wer gemessen hat.</b>
+<b>Wenn man ihn ausdruckt, kann man ihn auch unterschreiben, sodass man sieht, wer die Messungen durchgeführt hat.</b>
 
 179
 00:15:54,766 --> 00:15:58,500
-<b>Es gibt ein Feld, über das man den Bericht verschicken kann. Beim InStore-PrevCheck haben wir keine E-Mail-Adresse vom Kunden hinterlegt.</b>
+<b>Im Fall von InStore PrevCheck haben wir keine E-Mail Adresse vom Kunden.</b>
 
 180
 00:15:58,500 --> 00:16:06,733
-<b> Darum gibt es hier auf der linken Seite einen QR-Code, über den der Kunde den Bericht abrufen kann, oder auf der rechten Seite die Möglichkeit, die E-Mail-Adresse einzugeben </b>
+<b>Darum gibt es hier auf der linken Seite einen QR-Code, den der Kunde scannen und so den Bericht abrufen kann, oder auf der rechten Seite die Möglichkeit, die E-Mail-Adresse einzugeben </b>
 
 181
 00:16:06,733 --> 00:16:13,000
-<b>und den Bericht dorthin zu schicken. Zusätzlich kann man eine Erinnerungsfunktion für die Nachmessung einstellen.</b>
+<b>und den Bericht zu schicken. Zusätzlich kann man eine Erinnerung für eine mögliche Nachmessung setzen.</b>
 
 182
 00:16:13,000 --> 00:16:22,066
-<b>Kurz zur Nachmessung: Wenn die Triglyceridwerte erhöht sind, also über 4,5 mmol pro Liter, erscheint im Bericht eine Warnung. </b>
+<b>Kurz zur Nachmessung: Wenn die Triglyceridwerte erhöht sind, also über 4,52 mmol pro Liter, erscheint im Bericht eine Warnung. </b>
 
 183
 00:16:22,066 --> 00:16:28,600
@@ -732,19 +732,19 @@
 
 184
 00:16:28,600 --> 00:16:37,033
-<b>Eine Nachmessung funktioniert so, dass der Kunde ein zweites Mal – dieses Mal nüchtern – in die Apotheke kommt und die Messung wiederholt wird. </b>
+<b>Eine Nachmessung funktioniert so, dass der Kunde ein zweites Mal – dieses Mal nüchtern – in die Apotheke kommt und die Messung wiederholt wird. Der Kunde zahlt diese ganz normal in der Apotheke.</b>
 
 185
 00:16:37,033 --> 00:16:41,566
-<b>Mit dem neuen Wert kann man bei der Nachmessung den Bericht neu ausstellen lassen, wodurch der alte Bericht ersetzt wird.</b>
+<b>Mit dem neuen Werten kann man bei der Nachmessung den Bericht neu ausstellen lassen, wodurch der alte Bericht ersetzt wird.</b>
 
 186
 00:16:41,566 --> 00:16:52,766
-<b> Alle Werte werden neu berechnet, und der Kunde erhält eine aktualisierte Risikobeurteilung.</b>
+<b>Alle Werte werden neu berechnet, und der Kunde erhält eine saubere und aktualisierte Risikobeurteilung.</b>
 
 187
 00:16:52,766 --> 00:16:59,566
-<b>Das war, wie man den PrevCheck aus der Apotheken-Sicht durchführt. Jetzt kommt der Christian an und zeigt euch noch mehr über unsere Plattform.</b>
+<b>Das war es , wie man den PrevCheck aus der Apotheken-Sicht durchführt. Jetzt kommt nochmals der Christian und zeigt euch mehr über unsere Plattform.</b>
 
 188
 00:17:03,766 --> 00:17:08,733
