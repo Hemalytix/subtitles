@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:02.267 --> 00:00:05.300
+<b>The online path works as follows.</b>
+
+2
+00:00:05.300 --> 00:00:08.700
+<b>The customer has already registered independently on our website,</b>
+
+3
+00:00:08.700 --> 00:00:14.600
+<b>filled out the questionnaire, and then paid online, with or without a discount,</b>
+
+4
+00:00:14.600 --> 00:00:20.533
+<b>and received the six-digit booking code by e-mail or SMS, which they then bring to you at the pharmacy.</b>
+
+5
+00:00:20.533 --> 00:00:27.467
+<b>Ideally, the customer arrives with an appointment and the booking code received by SMS or e-mail,</b>
+
+6
+00:00:27.467 --> 00:00:32.133
+<b>at your pharmacy. And you can start the measurements right away.</b>

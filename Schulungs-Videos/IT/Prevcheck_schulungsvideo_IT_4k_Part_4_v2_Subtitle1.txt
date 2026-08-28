@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:01.933 --> 00:00:04.100
+<b>Non tutti i clienti hanno dimestichezza con la tecnologia</b>
+
+2
+00:00:04.100 --> 00:00:10.100
+<b>né sono disposti a creare un account per un check-up sanitario o a pagare online in anticipo per un servizio.</b>
+
+3
+00:00:10.100 --> 00:00:14.766
+<b>Soprattutto per le persone che vogliono farlo in modo spontaneo, questo è spesso un grande ostacolo.</b>
+
+4
+00:00:14.766 --> 00:00:17.700
+<b>Per questo motivo abbiamo introdotto il PrevCheck InStore.</b>
+
+5
+00:00:17.700 --> 00:00:24.566
+<b>Questo vi permette di gestire un cliente interamente in farmacia, dal questionario fino al pagamento.</b>
+
+6
+00:00:24.566 --> 00:00:32.366
+<b>I clienti possono avviare il questionario scansionando il codice QR in farmacia, per esempio su un manifesto o un espositore.</b>
+
+7
+00:00:32.366 --> 00:00:35.800
+<b>Oppure aprite il vostro account PrevCheck,</b>
+
+8
+00:00:35.800 --> 00:00:37.100
+<b>andate su "Misurazioni",</b>
+
+9
+00:00:37.100 --> 00:00:39.166
+<b>"Questionario PrevCheck InStore".</b>
+
+10
+00:00:39.166 --> 00:00:43.700
+<b>Lì avete due possibilità per far compilare il questionario al cliente:</b>
+
+11
+00:00:43.700 --> 00:00:45.100
+<b>sul dispositivo del cliente,</b>
+
+12
+00:00:45.100 --> 00:00:52.233
+<b>Quando clicco qui, appare un avviso che vi ricorda che dovrete addebitare questo PrevCheck più tardi alla vostra cassa.</b>
+
+13
+00:00:52.233 --> 00:00:53.899
+<b>Vi preghiamo di non dimenticarlo.</b>
+
+14
+00:00:53.899 --> 00:01:00.966
+<b>Non appena confermo il messaggio, vedo due opzioni per condividere il questionario con il cliente.</b>
+
+15
+00:01:00.966 --> 00:01:07.200
+<b>La prima opzione è un codice QR che il cliente può scansionare per accedere direttamente al questionario.</b>
+
+16
+00:01:07.200 --> 00:01:14.100
+<b>E la seconda opzione è inviare il questionario, ossia il link al questionario, al cliente via SMS.</b>
+
+17
+00:01:14.100 --> 00:01:19.600
+<b>Potete usare questa opzione se il cliente vuole venire da voi per le misurazioni in un secondo momento.</b>
+
+18
+00:01:19.600 --> 00:01:26.066
+<b>In alternativa, se il cliente per esempio non ha un dispositivo o non può compilare il questionario sul proprio,</b>
+
+19
+00:01:26.066 --> 00:01:32.333
+<b>potete anche mettergli a disposizione il dispositivo della farmacia. Per farlo, cliccate su "Su questo dispositivo",</b>
+
+20
+00:01:32.333 --> 00:01:36.133
+<b>e appare di nuovo lo stesso messaggio, che confermo.</b>
+
+21
+00:01:36.133 --> 00:01:43.633
+<b>Va inoltre tenuto presente che state affidando al cliente il vostro dispositivo, che può contenere dati sensibili di altri pazienti.</b>
+
+22
+00:01:43.633 --> 00:01:47.700
+<b>Non appena confermo, il questionario parte immediatamente.</b>
+
+23
+00:01:47.700 --> 00:01:54.499
+<b>Se volete testare voi stessi il PrevCheck internamente, cliccate qui in basso su "Uso interno a scopo di formazione",</b>
+
+24
+00:01:54.499 --> 00:01:57.833
+<b>in questo modo il PrevCheck non verrà fatturato.</b>
+
+25
+00:01:57.833 --> 00:02:06.699
+<b>Indipendentemente dal modo in cui il cliente compila il questionario, il codice di prenotazione a sei cifre appare sempre alla fine del questionario.</b>
+
+26
+00:02:06.699 --> 00:02:15.966
+<b>Trovate tutti i questionari InStore completati sotto Misurazioni, PrevCheck, e potete selezionarli comodamente lì per le misurazioni.</b>
+
+27
+00:02:15.966 --> 00:02:19.466
+<b>Con il PrevCheck InStore siete voi a incassare dal cliente.</b>
+
+28
+00:02:19.466 --> 00:02:23.999
+<b>Questa è la differenza rispetto alla modalità online, dove il cliente paga in anticipo.</b>
+
+29
+00:02:23.999 --> 00:02:32.766
+<b>Ancora un piccolo consiglio: per eseguire il PrevCheck nel modo più efficiente possibile, vi consigliamo di iniziare con la misurazione dell'HbA1c o del colesterolo</b>
+
+30
+00:02:32.766 --> 00:02:36.433
+<b>e poi far compilare il questionario al cliente.</b>
+
+31
+00:02:36.433 --> 00:02:43.233
+<b>Se ora vi state chiedendo come funziona la fatturazione, in linea di principio è molto semplice.</b>
+
+32
+00:02:43.233 --> 00:02:49.266
+<b>Alla fine di ogni mese confrontiamo il numero di PrevCheck effettuati tramite la modalità InStore</b>
+
+33
+00:02:49.266 --> 00:02:52.666
+<b>con quelli arrivati tramite il nostro sito web.</b>
+
+34
+00:02:52.666 --> 00:02:57.366
+<b>Come farmacia ricevete sempre lo stesso importo per ogni PrevCheck.</b>
+
+35
+00:02:57.366 --> 00:03:04.800
+<b>Quindi non c'è per voi né un vantaggio né uno svantaggio, indipendentemente dalla modalità che preferite per servire i clienti.</b>

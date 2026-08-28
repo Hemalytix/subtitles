@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:03.299 --> 00:00:04.866
+<b>So, glad to have you back.</b>
+
+2
+00:00:04.866 --> 00:00:07.866
+<b>I'm Christian, and together we're now going to walk you through</b>
+
+3
+00:00:07.866 --> 00:00:09.599
+<b>the process of the PrevCheck.</b>
+
+4
+00:00:09.599 --> 00:00:12.099
+<b>By and large, it's always the same.</b>
+
+5
+00:00:12.099 --> 00:00:15.833
+<b>The customer fills out a questionnaire in advance</b>
+
+6
+00:00:15.833 --> 00:00:18.766
+<b>and then comes to you at the pharmacy for the measurements.</b>
+
+7
+00:00:18.766 --> 00:00:21.933
+<b>As soon as the measurement results are entered on the website</b>
+
+8
+00:00:21.933 --> 00:00:23.866
+<b>and the questionnaire has also been recorded,</b>
+
+9
+00:00:23.866 --> 00:00:26.433
+<b>a report can be generated instantly,</b>
+
+10
+00:00:26.433 --> 00:00:28.800
+<b>which is then discussed with the customer at the pharmacy.</b>
+
+11
+00:00:28.800 --> 00:00:32.633
+<b>Following the PrevCheck, we'll give you some tips and tricks</b>
+
+12
+00:00:32.633 --> 00:00:35.200
+<b>on how to get the most out of the PrevCheck.</b>
+
+13
+00:00:35.200 --> 00:00:36.633
+<b>One more thing I'd like to mention:</b>
+
+14
+00:00:36.633 --> 00:00:39.399
+<b>you can watch these videos as often as you like,</b>
+
+15
+00:00:39.399 --> 00:00:41.399
+<b>and whenever you need them.</b>
+
+16
+00:00:41.399 --> 00:00:46.899
+<b>The training is basically divided into chapters, but you can jump back and forth between them.</b>
+
+17
+00:00:46.899 --> 00:00:51.266
+<b>The first time, though, we recommend going through them in order.</b>
+
+18
+00:00:51.266 --> 00:00:55.833
+<b>It's best to have your phone next to you and something to write with.</b>
+
+19
+00:00:55.833 --> 00:00:58.766
+<b>There are a couple of spots where you can join in directly.</b>
+
+20
+00:00:58.766 --> 00:01:02.033
+<b>But enough talking, let's get started with the training.</b>

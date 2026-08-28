@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:01.933 --> 00:00:04.100
+<b>Not every customer is tech-savvy</b>
+
+2
+00:00:04.100 --> 00:00:10.100
+<b>or willing to create an account for a health check or pay online for a service in advance.</b>
+
+3
+00:00:10.100 --> 00:00:14.766
+<b>Especially for people who want to do it spontaneously, this is often a major obstacle.</b>
+
+4
+00:00:14.766 --> 00:00:17.700
+<b>That's why we introduced the InStore PrevCheck.</b>
+
+5
+00:00:17.700 --> 00:00:24.566
+<b>It allows you to serve a customer entirely at the pharmacy, from the questionnaire right through to payment.</b>
+
+6
+00:00:24.566 --> 00:00:32.366
+<b>Customers can start the questionnaire by scanning a QR code at the pharmacy, for example on a poster or a display stand.</b>
+
+7
+00:00:32.366 --> 00:00:35.800
+<b>Or you open your PrevCheck account,</b>
+
+8
+00:00:35.800 --> 00:00:37.100
+<b>go to 'Measurements',</b>
+
+9
+00:00:37.100 --> 00:00:39.166
+<b>'PrevCheck InStore Questionnaire'.</b>
+
+10
+00:00:39.166 --> 00:00:43.700
+<b>There you have two options for how the customer can fill out the questionnaire:</b>
+
+11
+00:00:43.700 --> 00:00:45.100
+<b>on the customer's own device,</b>
+
+12
+00:00:45.100 --> 00:00:52.233
+<b>When I click this, a warning appears reminding you that you'll need to charge for this PrevCheck later at your till.</b>
+
+13
+00:00:52.233 --> 00:00:53.899
+<b>Please don't forget that.</b>
+
+14
+00:00:53.899 --> 00:01:00.966
+<b>As soon as I confirm the message, I see two options for sharing the questionnaire with the customer.</b>
+
+15
+00:01:00.966 --> 00:01:07.200
+<b>The first option is a QR code that the customer can scan to go straight to the questionnaire.</b>
+
+16
+00:01:07.200 --> 00:01:14.100
+<b>And the second option is to send the questionnaire, or rather the link to it, to the customer by SMS.</b>
+
+17
+00:01:14.100 --> 00:01:19.600
+<b>You can use this option if the customer wants to come to you for the measurements at a later time.</b>
+
+18
+00:01:19.600 --> 00:01:26.066
+<b>Alternatively, if the customer doesn't have a device, for example, or can't fill out the questionnaire on their device,</b>
+
+19
+00:01:26.066 --> 00:01:32.333
+<b>you can also make your pharmacy device available. To do this, click on 'On this device',</b>
+
+20
+00:01:32.333 --> 00:01:36.133
+<b>and the same message appears again, which I confirm.</b>
+
+21
+00:01:36.133 --> 00:01:43.633
+<b>Here you should also keep in mind that you're handing the customer your device, which may contain sensitive patient data.</b>
+
+22
+00:01:43.633 --> 00:01:47.700
+<b>As soon as I confirm this, the questionnaire starts right away.</b>
+
+23
+00:01:47.700 --> 00:01:54.499
+<b>If you want to test the PrevCheck internally yourselves, click 'Internal use for training purposes' down here,</b>
+
+24
+00:01:54.499 --> 00:01:57.833
+<b>so that the PrevCheck won't be billed.</b>
+
+25
+00:01:57.833 --> 00:02:06.699
+<b>No matter which way the customer fills out the questionnaire, the six-digit booking code always appears at the end of it.</b>
+
+26
+00:02:06.699 --> 00:02:15.966
+<b>You'll find all completed InStore questionnaires under Measurements, PrevCheck, and can conveniently select them there for the measurements.</b>
+
+27
+00:02:15.966 --> 00:02:19.466
+<b>With the InStore PrevCheck, you charge the customer yourselves.</b>
+
+28
+00:02:19.466 --> 00:02:23.999
+<b>That's the difference from the online path, where the customer pays in advance.</b>
+
+29
+00:02:23.999 --> 00:02:32.766
+<b>One more small tip: to carry out the PrevCheck as efficiently as possible, we recommend starting the HbA1c or cholesterol measurement</b>
+
+30
+00:02:32.766 --> 00:02:36.433
+<b>and then having the customer fill out the questionnaire.</b>
+
+31
+00:02:36.433 --> 00:02:43.233
+<b>If you're now wondering how billing works, it's basically very simple.</b>
+
+32
+00:02:43.233 --> 00:02:49.266
+<b>At the end of each month, we compare the number of PrevChecks done via the InStore path</b>
+
+33
+00:02:49.266 --> 00:02:52.666
+<b>with those that came through our website.</b>
+
+34
+00:02:52.666 --> 00:02:57.366
+<b>As a pharmacy, you always receive the same amount per PrevCheck.</b>
+
+35
+00:02:57.366 --> 00:03:04.800
+<b>So there's no advantage or disadvantage for you, whichever path you prefer to serve your customers through.</b>

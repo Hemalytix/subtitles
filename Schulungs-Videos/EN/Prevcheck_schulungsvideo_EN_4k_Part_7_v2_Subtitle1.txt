@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:01.933 --> 00:00:06.900
+<b>Right, that's it for the PrevCheck. But our platform has much more to offer.</b>
+
+2
+00:00:06.900 --> 00:00:12.067
+<b>For example, the individual measurements for HbA1c, cholesterol, and blood pressure.</b>
+
+3
+00:00:12.067 --> 00:00:17.900
+<b>These can be used to generate a report for a single measurement at the pharmacy.</b>
+
+4
+00:00:17.900 --> 00:00:28.900
+<b>I'll show you this now using the HbA1c measurement as an example. You go back to 'Measurements', select the HbA1c measurement there, enter the HbA1c value,</b>
+
+5
+00:00:28.900 --> 00:00:36.033
+<b>confirm that the details are correct and in the right unit, and can open the report right away.</b>
+
+6
+00:00:36.033 --> 00:00:39.533
+<b>The report basically always consists of four parts.</b>
+
+7
+00:00:39.900 --> 00:00:43.033
+<b>The first part describes what an HbA1c value is,</b>
+
+8
+00:00:43.033 --> 00:00:46.533
+<b>the second part covers what the customer's HbA1c value was,</b>
+
+9
+00:00:46.533 --> 00:00:52.700
+<b>the third part discusses measures, what to do now, followed by general recommendations</b>
+
+10
+00:00:52.700 --> 00:00:59.266
+<b>Just like with the PrevCheck, if you print out the report, you can sign it and hand it to the customer in person.</b>
+
+11
+00:00:59.633 --> 00:01:07.900
+<b>Alternatively, you can also send the report to a customer by e-mail if you enter their name and e-mail address down there.</b>
+
+12
+00:01:07.900 --> 00:01:15.167
+<b>There's also the option of inviting the customer to a follow-up measurement in 3, 6, 12, 24, or 36 months.</b>
+
+13
+00:01:15.167 --> 00:01:18.867
+<b>We've now created a report for an HbA1c measurement.</b>
+
+14
+00:01:18.867 --> 00:01:24.966
+<b>The cholesterol measurement and blood pressure measurement work exactly the same way. Easier than you thought, right?</b>

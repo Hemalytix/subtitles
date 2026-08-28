@@ -1,0 +1,241 @@
+WEBVTT
+
+1
+00:00:01.266 --> 00:00:06.433
+<b>Je suis Martin. Nous allons maintenant examiner ensemble le PrevCheck du point de vue de la pharmacie.</b>
+
+2
+00:00:06.433 --> 00:00:13.500
+<b>Le client se trouve devant nous avec le code de réservation, après avoir rempli le questionnaire. Nous allons maintenant sur</b>
+
+3
+00:00:13.500 --> 00:00:18.733
+<b>prevcheck.ch, dans le portail pharmacie, et consultons le PrevCheck sous « Mesures ».</b>
+
+4
+00:00:18.733 --> 00:00:22.766
+<b>On peut alors y saisir ou sélectionner le code de réservation.</b>
+
+5
+00:00:22.766 --> 00:00:27.533
+<b>Vient d'abord une question de sécurité : le client se sent-il suffisamment en forme pour passer le test ?</b>
+
+6
+00:00:27.533 --> 00:00:36.400
+<b>Ou présente-t-il des symptômes aigus ? On voit également si le PrevCheck a déjà été payé en ligne au préalable.</b>
+
+7
+00:00:36.400 --> 00:00:43.266
+<b>On voit ici le déroulement complet. On commence par l'analyse sanguine. Selon l'appareil, cela prend de 6 à 8 minutes.</b>
+
+8
+00:00:44.299 --> 00:00:48.866
+<b>Vous mesurez le bilan lipidique pour le cholestérol et les triglycérides en millimoles par litre,</b>
+
+9
+00:00:48.866 --> 00:00:53.400
+<b>la glycémie à long terme HbA1c en pourcentage, le poids et la tension artérielle.</b>
+
+10
+00:00:55.400 --> 00:00:57.766
+<b>La tension artérielle peut bien sûr aussi être mesurée plusieurs fois.</b>
+
+11
+00:00:57.766 --> 00:01:04.366
+<b>Nous recommandons en principe que le client soit à jeun. Si les valeurs de triglycérides sont élevées et que le client n'est pas à jeun,</b>
+
+12
+00:01:04.366 --> 00:01:08.166
+<b>une nouvelle mesure peut alors être utile. Nous y reviendrons plus tard.</b>
+
+13
+00:01:09.966 --> 00:01:13.166
+<b>Si vous n'avez qu'un seul appareil, vous devez respecter les indications du fabricant</b>
+
+14
+00:01:13.166 --> 00:01:15.566
+<b>quant à la possibilité de remplir les cassettes simultanément.</b>
+
+15
+00:01:15.566 --> 00:01:21.066
+<b>En temps normal, vous devriez attendre que l'appareil soit à nouveau disponible avant de remplir la deuxième cassette.</b>
+
+16
+00:01:21.066 --> 00:01:24.066
+<b>Les cassettes remplies ne doivent en effet pas rester longtemps en attente.</b>
+
+17
+00:01:24.066 --> 00:01:28.133
+<b>Si les valeurs mesurées sont en dehors de la plage de mesure, ou si « n/a » s'affiche,</b>
+
+18
+00:01:28.133 --> 00:01:32.566
+<b>vous pouvez le saisir de la même manière dans le formulaire. Un menu déroulant est disponible à cet effet sur la gauche.</b>
+
+19
+00:01:33.400 --> 00:01:37.699
+<b>Par exemple, si les valeurs de triglycérides dépassent 4,52 mmol/l,</b>
+
+20
+00:01:37.699 --> 00:01:40.766
+<b>l'appareil ne peut alors plus calculer les valeurs de LDL.</b>
+
+21
+00:01:41.266 --> 00:01:46.833
+<b>Si vous saisissez cela ainsi, un champ supplémentaire pour le cholestérol total apparaît.</b>
+
+22
+00:01:46.833 --> 00:01:49.666
+<b>Vous pouvez le remplir, et le reste se fait automatiquement.</b>
+
+23
+00:01:49.666 --> 00:01:53.766
+<b>Une fois tout saisi, il est préférable de tout revérifier puis de confirmer.</b>
+
+24
+00:01:55.233 --> 00:01:59.633
+<b>Le rapport est disponible immédiatement et est également envoyé par e-mail à ce moment-là.</b>
+
+25
+00:01:59.633 --> 00:02:03.433
+<b>Le rapport est ce que le client reçoit au final,</b>
+
+26
+00:02:03.433 --> 00:02:10.266
+<b>soit par e-mail, soit imprimé. Regardons maintenant le rapport ensemble, car il constitue la base de la consultation.</b>
+
+27
+00:02:10.266 --> 00:02:17.166
+<b>Voici un rapport. Ils sont tous structurés de la même façon, mais leur contenu est adapté à chaque client. Le rapport comporte cinq parties.</b>
+
+28
+00:02:17.166 --> 00:02:25.100
+<b>Dans la première partie, on voit un aperçu concernant l'alimentation, l'activité physique/le sport, les antécédents familiaux et les substances.</b>
+
+29
+00:02:25.100 --> 00:02:32.033
+<b>L'évaluation se base sur les réponses données dans le questionnaire. Cela permet d'avoir rapidement une vue d'ensemble de la situation de départ.</b>
+
+30
+00:02:33.100 --> 00:02:37.100
+<b>La deuxième partie présente les résultats de laboratoire – ce que vous avez mesuré.</b>
+
+31
+00:02:38.633 --> 00:02:42.566
+<b>IMC, glycémie à long terme (HbA1c), cholestérol, triglycérides et tension artérielle.</b>
+
+32
+00:02:42.566 --> 00:02:46.500
+<b>Chaque valeur est évaluée par une couleur, accompagnée à chaque fois d'une brève explication.</b>
+
+33
+00:02:46.500 --> 00:02:51.600
+<b>Nous recommandons de d'abord décrire brièvement l'aperçu et les mesures,</b>
+
+34
+00:02:51.600 --> 00:02:56.799
+<b>puis d'entrer dans le détail à partir du score de risque ou de valeurs individuelles.</b>
+
+35
+00:03:00.066 --> 00:03:28.466
+<b>Il s'agit maintenant de l'évaluation du risque. Nous avons deux scores. Le premier concerne le risque cardiovasculaire et se base sur SCORE2, le score de risque actuel pour l'Europe. Vous voyez ici le risque à 10 ans d'un événement cardiovasculaire tel qu'un AVC, une valeur cible, ainsi qu'un « âge cardiaque ». Nous indiquons également le risque de base lié à l'âge. Une personne de 75 ans qui court des marathons et fait tout comme il faut peut malgré tout se situer dans la zone orange ou rouge.</b>
+
+36
+00:03:28.466 --> 00:03:30.866
+<b>L'âge est tout simplement un facteur de risque majeur.</b>
+
+37
+00:03:30.866 --> 00:03:38.000
+<b>Le deuxième score est un score de risque de diabète, basé sur FINDRISC. Il se compose de points de risque et d'une valeur cible.</b>
+
+38
+00:03:38.000 --> 00:03:43.100
+<b>Plus il y a de points, plus la situation est défavorable. La valeur cible est elle aussi adaptée à la personne.</b>
+
+39
+00:03:43.100 --> 00:03:49.100
+<b>Sur la droite, on voit également les objectifs de santé et ce que la personne peut faire pour améliorer sa situation.</b>
+
+40
+00:03:49.100 --> 00:03:56.266
+<b>Si la valeur d'HbA1c est déjà élevée, c'est-à-dire supérieure à 5,7 %, le score n'est pas affiché,</b>
+
+41
+00:03:56.266 --> 00:04:01.733
+<b>car le risque s'est déjà concrétisé. La personne se trouve alors dans la zone diabète ou prédiabète.</b>
+
+42
+00:04:01.733 --> 00:04:05.033
+<b>Nous recommandons alors à la personne de consulter un médecin.</b>
+
+43
+00:04:07.166 --> 00:04:15.433
+<b>Les deux évaluations de risque peuvent également déclencher des avertissements. Par exemple, si une personne indique avoir déjà eu un infarctus,</b>
+
+44
+00:04:15.433 --> 00:04:21.566
+<b>le rapport précise que SCORE2 n'est pas validé cliniquement pour des patients à si haut risque.</b>
+
+45
+00:04:21.566 --> 00:04:26.233
+<b>La quatrième partie porte sur les mesures liées au mode de vie. Nous avons volontairement gardé cela compact.</b>
+
+46
+00:04:26.233 --> 00:04:37.066
+<b>Il s'agit de l'alimentation, du soleil, du tabac, du sport et de l'alcool. C'est bien sûr adapté à chaque client. Pour plus d'informations, vous en trouverez davantage dans le centre d'information.</b>
+
+47
+00:04:37.066 --> 00:04:41.266
+<b>Par exemple, comment adapter son alimentation en cas de cholestérol élevé.</b>
+
+48
+00:04:41.266 --> 00:04:52.666
+<b>La dernière partie porte sur les mesures de prévention recommandées. Elle se base sur eviPrev, une association de médecins qui a étudié quelles mesures de prévention sont pertinentes pour la population suisse.</b>
+
+49
+00:04:52.666 --> 00:05:02.100
+<b>Selon le profil de risque, cette liste peut être plus ou moins longue. Si une personne a fumé, est en surpoids et présente des antécédents familiaux, la liste peut être d'autant plus longue.</b>
+
+50
+00:05:02.100 --> 00:05:07.733
+<b>À la fin du rapport figurent encore des informations générales, le logo de la pharmacie et son adresse.</b>
+
+51
+00:05:07.733 --> 00:05:12.666
+<b>Si vous l'imprimez, vous pouvez aussi le signer, afin qu'on sache qui a effectué les mesures.</b>
+
+52
+00:05:12.666 --> 00:05:16.400
+<b>Dans le cas du PrevCheck InStore, nous ne disposons pas de l'adresse e-mail du client.</b>
+
+53
+00:05:16.400 --> 00:05:24.633
+<b>C'est pourquoi il y a, à gauche, un code QR que le client peut scanner pour récupérer le rapport, ou, à droite, la possibilité de saisir son adresse e-mail</b>
+
+54
+00:05:24.633 --> 00:05:30.900
+<b>pour recevoir le rapport. Vous pouvez également programmer un rappel pour une éventuelle nouvelle mesure.</b>
+
+55
+00:05:30.900 --> 00:05:39.966
+<b>Un mot sur la nouvelle mesure : si les valeurs de triglycérides sont élevées, c'est-à-dire supérieures à 4,52 mmol par litre, un avertissement apparaît dans le rapport.</b>
+
+56
+00:05:39.966 --> 00:05:46.500
+<b>Si le client n'était pas à jeun et que les valeurs sont élevées, une nouvelle mesure peut être utile.</b>
+
+57
+00:05:46.500 --> 00:05:54.933
+<b>Une nouvelle mesure fonctionne ainsi : le client revient une deuxième fois à la pharmacie – cette fois à jeun – et la mesure est répétée. Le client la paie normalement à la pharmacie.</b>
+
+58
+00:05:54.933 --> 00:05:59.466
+<b>Avec les nouvelles valeurs, un nouveau rapport peut être établi lors de la nouvelle mesure, ce qui remplace l'ancien rapport.</b>
+
+59
+00:05:59.466 --> 00:06:10.666
+<b>Toutes les valeurs sont recalculées, et le client reçoit une évaluation du risque propre et actualisée.</b>
+
+60
+00:06:10.666 --> 00:06:17.466
+<b>Voilà comment se déroule le PrevCheck du point de vue de la pharmacie. Christian reprend maintenant la parole pour vous en montrer davantage sur notre plateforme.</b>
