@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:02.267 --> 00:00:05.300
+<b>Der Online-Weg funktioniert folgendermassen.</b>
+
+2
+00:00:05.300 --> 00:00:08.700
+<b>Der Kunde hat sich schon selbstständig auf unserer Webseite angemeldet, </b>
+
+3
+00:00:08.700 --> 00:00:14.600
+<b>den Fragebogen ausgefüllt und im Anschluss auch online, mit oder ohne Rabatt bezahlt </b>
+
+4
+00:00:14.600 --> 00:00:20.533
+<b>und den sechsstelligen Buchungscode per E-Mail oder SMS erhalten, mit dem er dann zu euch in die Apotheke kommt.</b>
+
+5
+00:00:20.533 --> 00:00:27.467
+<b>Und der Kunde kommt im Idealfall mit einem Termin und dem Buchungscode, den er per SMS oder E-Mail bekommen hat, </b>
+
+6
+00:00:27.467 --> 00:00:32.133
+<b>zu euch in die Apotheke. Und ihr könnt direkt mit den Messungen starten.</b>

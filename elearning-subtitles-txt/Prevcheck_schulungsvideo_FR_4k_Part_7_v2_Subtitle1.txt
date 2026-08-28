@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:01.933 --> 00:00:06.900
+<b>Bien, c'était donc tout pour le PrevCheck. Mais notre plateforme a bien plus à offrir.</b>
+
+2
+00:00:06.900 --> 00:00:12.067
+<b>Par exemple, les mesures individuelles pour l'HbA1c, le cholestérol et la tension artérielle.</b>
+
+3
+00:00:12.067 --> 00:00:17.900
+<b>Celles-ci peuvent servir à générer un rapport pour une mesure individuelle en pharmacie.</b>
+
+4
+00:00:17.900 --> 00:00:28.900
+<b>Je vais vous le montrer avec l'exemple de la mesure d'HbA1c. On retourne dans « Mesures », on sélectionne la mesure HbA1c, on saisit la valeur d'HbA1c,</b>
+
+5
+00:00:28.900 --> 00:00:36.033
+<b>on confirme que les données sont correctes et dans la bonne unité, puis on peut ouvrir le rapport immédiatement.</b>
+
+6
+00:00:36.033 --> 00:00:39.533
+<b>Le rapport comporte en principe toujours quatre parties.</b>
+
+7
+00:00:39.900 --> 00:00:43.033
+<b>La première partie explique ce qu'est une valeur d'HbA1c,</b>
+
+8
+00:00:43.033 --> 00:00:46.533
+<b>la deuxième partie indique quelle était la valeur d'HbA1c du client,</b>
+
+9
+00:00:46.533 --> 00:00:52.700
+<b>la troisième partie aborde les mesures à prendre, suivie de recommandations générales</b>
+
+10
+00:00:52.700 --> 00:00:59.266
+<b>Comme pour le PrevCheck, si vous imprimez le rapport, vous pouvez le signer et le remettre au client en main propre.</b>
+
+11
+00:00:59.633 --> 00:01:07.900
+<b>Vous pouvez aussi envoyer le rapport par e-mail à un client en saisissant son nom et son adresse e-mail en bas.</b>
+
+12
+00:01:07.900 --> 00:01:15.167
+<b>Il est également possible d'inviter le client à une nouvelle mesure dans 3, 6, 12, 24 ou 36 mois.</b>
+
+13
+00:01:15.167 --> 00:01:18.867
+<b>Nous venons ainsi de créer un rapport pour une mesure d'HbA1c.</b>
+
+14
+00:01:18.867 --> 00:01:24.966
+<b>La mesure du cholestérol et celle de la tension artérielle fonctionnent exactement de la même façon. Plus simple que prévu, non ?</b>
