@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:02.933 --> 00:00:05.033
+<b>Iniziamo con il punto di vista del cliente.</b>
+
+2
+00:00:05.033 --> 00:00:09.433
+<b>I clienti possono venire a conoscenza del PrevCheck in vari modi.</b>
+
+3
+00:00:09.433 --> 00:00:18.766
+<b>Per esempio tramite campagne online e sui social media, volantini e manifesti, iniziative aziendali, motori di ricerca.</b>
+
+4
+00:00:18.766 --> 00:00:23.867
+<b>Tuttavia si è visto che il modo più efficace è la vendita diretta in farmacia.</b>
+
+5
+00:00:23.867 --> 00:00:27.933
+<b>Per i clienti esistono in linea di principio due modi per fare il PrevCheck.</b>
+
+6
+00:00:27.933 --> 00:00:32.000
+<b>In modo anonimo e senza account, direttamente nella vostra farmacia.</b>
+
+7
+00:00:32.000 --> 00:00:36.167
+<b>In questo caso il pagamento avviene dopo la prestazione, in farmacia.</b>
+
+8
+00:00:36.167 --> 00:00:41.667
+<b>In alternativa, il cliente può crearsi un account sul nostro sito e pagare in anticipo lì.</b>
+
+9
+00:00:41.667 --> 00:00:46.000
+<b>Attualmente i codici buono possono essere riscattati solo in questo modo.</b>
+
+10
+00:00:46.000 --> 00:00:52.967
+<b>Iniziamo con la modalità online e con l'account, per poi passare in seguito alla modalità InStore.</b>

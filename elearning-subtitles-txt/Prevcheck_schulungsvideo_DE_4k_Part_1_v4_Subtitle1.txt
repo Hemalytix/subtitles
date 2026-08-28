@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:03.299 --> 00:00:04.866
+<b>So, freut mich, dass ihr wieder hier seid.</b>
+
+2
+00:00:04.866 --> 00:00:07.866
+<b>Ich bin der Christian und wir gehen jetzt gemeinsam mit euch</b>
+
+3
+00:00:07.866 --> 00:00:09.599
+<b>den Ablauf des PrevChecks durch.</b>
+
+4
+00:00:09.599 --> 00:00:12.099
+<b>Im Grossen und Ganzen ist es immer dasselbe.</b>
+
+5
+00:00:12.099 --> 00:00:15.833
+<b>Die Kundin oder der Kunde füllt vorab einen Fragebogen aus</b>
+
+6
+00:00:15.833 --> 00:00:18.766
+<b>und kommt dann für die Messungen zu euch in die Apotheke.</b>
+
+7
+00:00:18.766 --> 00:00:21.933
+<b>Sobald die Messergebnisse auf der Website erfasst sind</b>
+
+8
+00:00:21.933 --> 00:00:23.866
+<b>und auch der Fragebogen erfasst ist,</b>
+
+9
+00:00:23.866 --> 00:00:26.433
+<b>kann man instantan einen Bericht erstellen, </b>
+
+10
+00:00:26.433 --> 00:00:28.800
+<b>der dann in der Apotheke nachbesprochen wird.</b>
+
+11
+00:00:28.800 --> 00:00:32.633
+<b>In Anschluss an den PrevCheck geben wir euch noch Tipps und Tricks,</b>
+
+12
+00:00:32.633 --> 00:00:35.200
+<b>wie ihr das meiste aus dem PrevCheck herausholen könnt.</b>
+
+13
+00:00:35.200 --> 00:00:36.633
+<b>Was ich noch erwähnen will, </b>
+
+14
+00:00:36.633 --> 00:00:39.399
+<b>ihr könnt diese Videos so oft anschauen, wie ihr wollt.</b>
+
+15
+00:00:39.399 --> 00:00:41.399
+<b>Und wann immer ihr sie braucht. </b>
+
+16
+00:00:41.399 --> 00:00:46.899
+<b>Prinzipiell ist die Schulung in Kapitel unterteilt, aber ihr könnt zwischen den Kapiteln hin und her springen. </b>
+
+17
+00:00:46.899 --> 00:00:51.266
+<b>Beim ersten Mal empfehlen wir euch aber, diese sequenziell durchzugehen.</b>
+
+18
+00:00:51.266 --> 00:00:55.833
+<b>Am besten habt ihr euer Handy neben euch und etwas zum Schreiben. </b>
+
+19
+00:00:55.833 --> 00:00:58.766
+<b>Es gibt ein, zwei Stellen, wo ihr direkt mitmachen könnt. </b>
+
+20
+00:00:58.766 --> 00:01:02.033
+<b>Aber genug geredet, los geht es mit der Schulung.</b>
