@@ -66,7 +66,7 @@ WEBVTT
 
 17
 00:01:24.066 --> 00:01:28.133
-<b>Si les valeurs mesurées sont en dehors de la plage de mesure, ou si « n/a » s'affiche,</b>
+<b>Si les valeurs mesurées sont en dehors de la zone de mesure, ou si « n/a » s'affiche,</b>
 
 18
 00:01:28.133 --> 00:01:32.566
@@ -138,7 +138,7 @@ WEBVTT
 
 35
 00:03:00.066 --> 00:03:28.466
-<b>Il s'agit maintenant de l'évaluation du risque. Nous avons deux scores. Le premier concerne le risque cardiovasculaire et se base sur SCORE2, le score de risque actuel pour l'Europe. Vous voyez ici le risque à 10 ans d'un événement cardiovasculaire tel qu'un AVC, une valeur cible, ainsi qu'un « âge cardiaque ». Nous indiquons également le risque de base lié à l'âge. Une personne de 75 ans qui court des marathons et fait tout comme il faut peut malgré tout se situer dans la zone orange ou rouge.</b>
+<b>Il s'agit maintenant de l'évaluation du risque. Nous avons deux scores. Le premier concerne le risque cardiovasculaire et se base sur SCORE2, le score de risque actuel pour l'Europe. Vous voyez ici votre risque cardiovasculaire pour les 10 prochaines années concernant un événement cardiovasculaire, tel qu'un AVC, ainsi qu'une valeur cible et un « âge cardiaque. Nous indiquons également le risque de base lié à l'âge. Une personne de 75 ans qui court des marathons et fait tout comme il faut peut malgré tout se situer dans la zone orange ou rouge.</b>
 
 36
 00:03:28.466 --> 00:03:30.866
@@ -174,7 +174,7 @@ WEBVTT
 
 44
 00:04:15.433 --> 00:04:21.566
-<b>le rapport précise que SCORE2 n'est pas validé cliniquement pour des patients à si haut risque.</b>
+<b>le rapport précise que le SCORE2 n'est pas validé cliniquement pour des patients à si haut risque.</b>
 
 45
 00:04:21.566 --> 00:04:26.233

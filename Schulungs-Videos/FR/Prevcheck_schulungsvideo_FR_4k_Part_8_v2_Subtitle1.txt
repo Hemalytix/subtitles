@@ -10,7 +10,7 @@ WEBVTT
 
 3
 00:00:08.766 --> 00:00:19.200
-<b>Ces informations sont à la disposition aussi bien de vous que du client. Ainsi, si le client se demande ce qu'il doit prendre en compte au niveau alimentaire en cas de cholestérol élevé,</b>
+<b>Ces informations sont à votre disposition ainsi qu'à celle du client. Ainsi, si le client se demande ce qu'il doit prendre en compte au niveau alimentaire en cas de cholestérol élevé,</b>
 
 4
 00:00:19.200 --> 00:00:24.366
@@ -38,7 +38,7 @@ WEBVTT
 
 10
 00:01:06.166 --> 00:01:17.100
-<b>Il y a également « Marketing et matériel », où, dans les ressources numériques, vous pouvez par exemple télécharger nos logos ou des textes types pour votre site web,</b>
+<b>Il y a également la rubrique « Marketing et matériel », où, dans les ressources numériques, vous pouvez par exemple télécharger nos logos ou des textes types pour votre site web,</b>
 
 11
 00:01:17.100 --> 00:01:20.333
@@ -74,7 +74,7 @@ WEBVTT
 
 19
 00:02:01.700 --> 00:02:08.733
-<b>Si vous avez des suggestions ou des retours à nous faire sur nous ou sur notre plateforme, n'hésitez pas à nous contacter, nous serons ravis de vous lire.</b>
+<b>Si vous avez des suggestions ou des retours à nous faire sur nous ou sur notre plateforme, n'hésitez pas à nous contacter, nous serons ravis de recevoir votre message.</b>
 
 20
 00:02:08.733 --> 00:02:11.400

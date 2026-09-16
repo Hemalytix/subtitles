@@ -6,7 +6,7 @@ WEBVTT
 
 2
 00:00:05.033 --> 00:00:09.433
-<b>Les clients peuvent découvrir le PrevCheck de différentes manières.</b>
+<b>Les clients peuvent découvrir PrevCheck de différentes manières.</b>
 
 3
 00:00:09.433 --> 00:00:18.766
