@@ -2,7 +2,7 @@ WEBVTT
 
 1
 00:00:01.933 --> 00:00:04.100
-<b>Non tutti i clienti hanno dimestichezza con la tecnologia</b>
+<b>Non tutti i clienti sono esperti di tecnologia.</b>
 
 2
 00:00:04.100 --> 00:00:10.100
@@ -46,7 +46,7 @@ WEBVTT
 
 12
 00:00:45.100 --> 00:00:52.233
-<b>Quando clicco qui, appare un avviso che vi ricorda che dovrete addebitare questo PrevCheck più tardi alla vostra cassa.</b>
+<b>Quando si clicca qui, appare un avviso che vi ricorda che dovrete addebitare questo PrevCheck più tardi alla vostra cassa.</b>
 
 13
 00:00:52.233 --> 00:00:53.899
@@ -54,7 +54,7 @@ WEBVTT
 
 14
 00:00:53.899 --> 00:01:00.966
-<b>Non appena confermo il messaggio, vedo due opzioni per condividere il questionario con il cliente.</b>
+<b>Non appena confermo il messaggio, si vedono due opzioni per condividere il questionario con il cliente.</b>
 
 15
 00:01:00.966 --> 00:01:07.200
@@ -138,4 +138,4 @@ WEBVTT
 
 35
 00:02:57.366 --> 00:03:04.800
-<b>Quindi non c'è per voi né un vantaggio né uno svantaggio, indipendentemente dalla modalità che preferite per servire i clienti.</b>
+<b>Quindi non c'è né un vantaggio né uno svantaggio per la farmacia, indipendentemente dalla modalità che preferite per servire i clienti.</b>

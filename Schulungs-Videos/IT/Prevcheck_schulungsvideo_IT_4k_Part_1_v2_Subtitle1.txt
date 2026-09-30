@@ -18,11 +18,11 @@ WEBVTT
 
 5
 00:00:12.099 --> 00:00:15.833
-<b>La cliente o il cliente compila in anticipo un questionario</b>
+<b>La cliente o il cliente compila un questionario in anticipo </b>
 
 6
 00:00:15.833 --> 00:00:18.766
-<b>e poi viene da voi in farmacia per le misurazioni.</b>
+<b>e poi viene da voi in farmacia per la misurazione.</b>
 
 7
 00:00:18.766 --> 00:00:21.933
@@ -54,7 +54,7 @@ WEBVTT
 
 14
 00:00:36.633 --> 00:00:39.399
-<b>potete guardare questi video tutte le volte che volete,</b>
+<b>potete guardare questi video quante volte che volete,</b>
 
 15
 00:00:39.399 --> 00:00:41.399
