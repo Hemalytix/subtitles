@@ -17,7 +17,7 @@ machen sollte und tut es dann aber trotzdem nicht.
 
 00:00:24.000 --> 00:00:30.500
 Darum haben wir den PrevCheck so entwickelt, dass er schnell und einfach ist
-und nur das misst, was die Ärzte auch  wirklich empfehlen.
+und nur das misst, was die Ärzte auch wirklich empfehlen.
 
 00:00:31.000 --> 00:00:32.200
 [EviPrev Empfehlungen (www.eviprev.ch)]
